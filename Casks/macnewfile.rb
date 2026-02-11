@@ -1,6 +1,6 @@
 cask "macnewfile" do                                                                                                          
     version "3.0.0"                                                                                                             
-    sha256 "c9e687fa23de43ae1cb277f61e791eae84b35a3f11b321fd625c2d7cdb103a66"                                                   
+    sha256 "1bff3f6a08af71c69b5c1b9e6f6a8be3fe9d40c843150d8ea2d50b26446ede69"                                                   
                                                                                                                                 
     url "https://github.com/GarfieldFluffJr/MacNewFile/releases/download/v#{version}/MacNewFile.zip"                            
     name "MacNewFile"                                                                                                           
