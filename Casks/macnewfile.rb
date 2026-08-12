@@ -7,7 +7,7 @@ cask "macnewfile" do
     desc "Create new files from Finder right-click menu"                                                                        
     homepage "https://github.com/GarfieldFluffJr/MacNewFile"                                                                    
                                                                                                                                 
-    depends_on macos: ">= :ventura"                                                                                             
+    depends_on macos: :ventura
                                                                                                                                 
     app "MacNewFile.app"                                                                                                        
                                                                                                                                 
